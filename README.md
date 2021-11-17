@@ -5,7 +5,24 @@ As a full-stack developer with years of business and marketing experience, I giv
 
 I utilize a delicate balance of skill and strategy to ensure you get the best possible return on investment for each project. No matter what it is you need, the first step is to formulate a plan to deliver resourcefully, efficiently, and in a way that monumentally benefits your business.
 
-What others say:
+### Websites I've helped create for others:
+
+#### PHP/JavaScript
+* SSDM - https://ssdm.co
+* MVP Collaborative - http:mvpcollaborative.com
+#### AEM
+Ford Corporate http://corporate.ford.com
+Ford Collision http://collision.ford.com
+#### .NET
+Hunter Engineering http://hunter.com
+Best Tile https://visualizer.besttile.com/
+
+* Designed and developed via my contract agency, Palmer Digital.
+
+### What others say:
+
+> "The quality of Nick’s work is impeccable. His technical skills are extensible and forward thinking, and he assists in creative solutions to complex issues. He produces work that consistently exceeds our, and our client’s expectations. Always meets his commitments and stays in budget."
+> - Mary Louise Luczkowski, Director of Marketing and Communications
 
 > "Nick has seldom said (if ever) I am unable to develop that. Whatever the request, or how far-fetched, Nick has been able to devise a digital solution that supports our original objective."
 > -Tyler Tagami, Account Executive
