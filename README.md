@@ -21,6 +21,8 @@ I utilize a delicate balance of skill and strategy to ensure you get the best po
 
 †Designed and developed via my contract agency, Palmer Digital.
 
+Personal (non-NDA) projects can also be found on this GitHub page.
+
 ### What others say:
 
 > "The quality of Nick’s work is impeccable. His technical skills are extensible and forward thinking, and he assists in creative solutions to complex issues. He produces work that consistently exceeds our, and our client’s expectations. Always meets his commitments and stays in budget." -Mary Louise Luczkowski, Director of Marketing and Communications
