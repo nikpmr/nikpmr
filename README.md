@@ -8,16 +8,16 @@ I utilize a delicate balance of skill and strategy to ensure you get the best po
 ### Websites I've helped create for others:
 
 #### PHP/JavaScript
-* SSDM - https://ssdm.co
-* MVP Collaborative - http:mvpcollaborative.com
+- †SSDM - https://ssdm.co
+- †MVP Collaborative - http:mvpcollaborative.com
 #### AEM
-Ford Corporate http://corporate.ford.com
-Ford Collision http://collision.ford.com
+- Ford Corporate http://corporate.ford.com
+- Ford Collision http://collision.ford.com
 #### .NET
-Hunter Engineering http://hunter.com
-Best Tile https://visualizer.besttile.com/
+- Hunter Engineering http://hunter.com
+- Best Tile https://visualizer.besttile.com/
 
-* Designed and developed via my contract agency, Palmer Digital.
+†Designed and developed via my contract agency, Palmer Digital.
 
 ### What others say:
 
