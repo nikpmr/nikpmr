@@ -13,11 +13,12 @@ I utilize a delicate balance of skill and strategy to ensure you get the best po
 - †The Artist's Apprentice - https://artistsapprentice.com/
 - †Townsites - https://townsites.org
 #### AEM
-- Ford Corporate http://corporate.ford.com
-- Ford Collision http://collision.ford.com
+- Ford Corporate - http://corporate.ford.com
+- Ford Collision - http://collision.ford.com
 #### .NET
-- Hunter Engineering http://hunter.com
-- Best Tile https://visualizer.besttile.com/
+- Hunter Engineering - http://hunter.com
+- Best Tile - https://visualizer.besttile.com/
+- Kitchen Magic - https://visualizer.kitchenmagic.com/
 
 †Designed and developed via my contract agency, Palmer Digital.
 
