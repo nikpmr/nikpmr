@@ -9,7 +9,7 @@ I utilize a delicate balance of skill and strategy to ensure you get the best po
 
 #### PHP/JavaScript
 - †SSDM - https://ssdm.co
-- †MVP Collaborative - http:mvpcollaborative.com
+- †MVP Collaborative - http://mvpcollaborative.com
 #### AEM
 - Ford Corporate http://corporate.ford.com
 - Ford Collision http://collision.ford.com
